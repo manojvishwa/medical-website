@@ -1,0 +1,487 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+.time {
+    display: flex;
+    padding-left: 36px;
+}
+
+.box-1 {
+    padding-left: 17px;
+}
+
+.container.cont-w {
+
+    padding-top: 30px;
+}
+
+.back-blue{
+
+	background: #399bdc;
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.blue-clr{
+
+	color: #fff;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.font-same {
+
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.p-same {
+
+    color: #6c6c6c;
+    font-size: 12px;
+}
+
+hr.underline {
+
+    width: 84%;
+    margin: auto;
+}
+
+
+p.font.spacing {
+
+    margin: 10px;
+}
+
+.collapse.navbar-collapse.font-right {
+    margin-left: 541px;
+}
+
+/*section-medicare*/
+
+.background{
+
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.contant {
+
+    padding: 100px;
+}
+
+/*section-medicare-end*/
+
+
+/*info-blue-back*/
+
+.inner-section .col-lg-3 {
+
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.inner-1{
+
+    background: #43b2d2;
+
+}
+
+.inner-2{
+
+    background: #3eb6c6;
+
+}
+
+.inner-3{
+
+    background: #3dbbba;
+
+}
+
+.inner-4{
+
+    background: #3dc3a8;
+
+}
+
+img.white {
+
+    background: #fff;
+    width: 62px;
+    height: 62px;
+    border-radius: 30px;
+}
+
+.white-hd h5 {
+    color: #fff;
+    text-align: center;
+    font-weight: 900;
+    padding: 7px;
+}
+
+.img-c {
+
+    padding-top: 30px;
+    text-align: center;
+}
+
+p.white-para {
+    color: #fff;
+    padding: 0px 47px;
+    font-size: 14px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+/*info-blue-back-ending */
+
+
+
+/*Why choose*/
+
+.heading-why h1 {
+
+    text-align: center;
+    font-weight: 900;
+    padding: 10px;
+    color: #484848;
+    padding-top: 50px;
+}
+
+.heading-why p {
+
+    text-align: center;
+    padding: 0px 163px;
+    color: #696969;
+
+}
+
+img.doctors-c {
+    width: 100%;
+}
+
+img.s1-img {
+
+    background: #399bdc;
+    width: 60px;
+    height: 60px;
+    border-radius: 54px;
+}
+
+
+h3.head-pro {
+
+    font-weight: 800;
+    color: #6f6f6d;
+    padding-top: 10px;
+    margin-right: 33px;
+
+}
+
+p.choose-para {
+    padding: 20px;
+    padding-left: 42px;
+    text-align: left;
+    color: #696969;
+    font-size: 14px;
+    margin: 0px;
+}
+
+
+/*Why choose-end*/
+
+
+/*info-blue*/
+
+
+.info-blue-background{
+
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.box-t {
+
+    margin: 77px;
+}
+
+h1.thousand {
+
+    color: #fff;
+    font-weight: 700;
+    margin-top: 11px;
+}
+
+p.blue-para {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+hr.line {
+    border: 3px solid #fff;
+    width: 60px;
+    margin: 15px;
+}
+
+/*info-blue-end*/
+
+/*how we work-start*/
+
+.how-head h3 {
+
+    padding-top: 80px;
+    padding-bottom: 20px;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.Our-c h3 {
+
+    padding-top: 80px;
+    padding-bottom: 20px;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+
+.how-img-1 img {
+
+    padding-top: 30px;
+}
+
+.slider {
+	
+    padding-top: 30px;
+}
+
+
+
+p.how-para {
+
+    padding-top: 40px;
+    font-size: 20px;
+    
+}
+
+.how-head .how-para {
+    color: #6e6e6c;
+}
+
+.how-head .how-para-b {
+
+    color: #3087be;
+}
+
+
+.how-head p {
+
+    color: #494949;
+}
+
+.Our-c p {
+
+    color: #494949;
+}
+
+
+button.btn.btn-primary {
+
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 34px;
+    padding: 8px 25px;
+    background-color: #3087be;
+}
+
+button.btn.btn-primary.shad {
+
+    box-shadow: 0px 0px 20px 0px darkgrey;
+    margin-bottom: 70px;
+}
+
+/*how we work-end*/
+
+
+/*Gallery-starting*/
+
+.Gallery{
+
+    background-image: url(../images/green-back.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.gallery-heading h1 {
+
+    padding-top: 80px;
+    font-weight: 900;
+    color: #fff;
+}
+
+
+.gallery-heading p {
+
+    color: #fff;
+    padding-top: 20px;
+}
+
+.box-wd img {
+
+    width: 100%;
+   
+}
+
+.box-pd {
+
+    padding-top: 35px;
+}
+
+.box-p-down {
+
+    padding-bottom: 80px;
+}
+
+.our-team-heading h1 {
+
+    text-align: center;
+    font-weight: 900;
+    padding: 10px;
+    color: #484848;
+    padding-top: 100px;
+}
+
+.our-team-heading p {
+
+    text-align: center;
+    color: #696969;
+    padding-top: 15px;
+}
+
+/*Gallery-ending*/
+
+
+
+/*our-team-start*/
+
+.our-img {
+
+    padding-top: 64px;
+    padding-bottom: 30px;
+}
+
+
+
+.our-img-heading h4 {
+
+    color: #575854;
+}
+
+p.our-p {
+
+    color: #575854;
+}
+
+.space {
+
+    padding: 10px;
+    color: #0087be;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+/*our-team-end*/
+
+/*New Patient*/
+
+.new-patient{
+
+    background-color: #e2e2e2;
+}
+
+.new-p h5 {
+    color: #494949;
+    font-weight: 800;
+    font-size: 30px;
+    margin-top: 60px;
+    margin-bottom: 55px;
+}
+
+.button-box {
+    padding-top: 30px;
+}
+
+primary.shad.button-two {
+    box-shadow: 0px 0px 29px 0px #969191;
+}
+
+button.btn.btn-primary.shad.button-two {
+    margin: auto;
+    margin-top: 25px;
+    border-radius: 34px;
+    padding: 12px 32px;
+    background-color: #3087be;
+}
+
+/*New Patient-end*/
+
+
+/*info*/
+
+.black-background{
+
+    background-color: #171717;
+}
+
+.text-color{
+
+    color: #fff;
+}
+
+hr.form-h {
+    border: 1px solid grey;
+    width: 262px;
+    
+}
+
+hr.form-h.mb {
+    margin-top: 80px;
+}
+
+h5.space-h {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+/*info-end*/
+
+.bg-col{
+
+    background-color: #1a1a1a;
+}
+
+.copy h6{
+
+    color: #5a504f;
+}
+
+.copy h6 {
+    color: #5a504f;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.buton {
+    margin-bottom: 80px;
+}
